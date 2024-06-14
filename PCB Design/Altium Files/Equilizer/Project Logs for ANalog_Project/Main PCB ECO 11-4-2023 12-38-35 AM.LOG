@@ -1,0 +1,6 @@
+Added Pin To Net: NetName=regoutmain Pin=U32-5
+Added Pin To Net: NetName=regout1 Pin=U32-6
+Added Pin To Net: NetName=regout2 Pin=U32-7
+Added Pin To Net: NetName=regout3 Pin=U32-8
+Added Pin To Net: NetName=regout4 Pin=U32-9
+Added Pin To Net: NetName=regout5 Pin=U32-10

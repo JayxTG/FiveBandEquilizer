@@ -1,0 +1,11 @@
+Change Component Footprint: Designator=C2 Old Footprint=RAD-0.3 New Footprint=K104K15X7RF5TL2
+Change Component Comment : Designator=C2 Old Comment=Cap New Comment=100nF
+Change component parameters: Designator = "C2" ("C2"); Footprint = "RAD-0.3"; UniqueID = "\QTNOYZLQ" ("\QTNOYZLQ")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "K104K15X7RF5TL2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/k104k15x7rf5tl2/vishay?region=nac"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com/Datasheets/1/K104K15X7RF5TL2.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "5.58mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Vishay"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "K104K15X7RF5TL2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "594-K104K15X7RF5TL2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Vishay-BC-Components/K104K15X7RF5TL2?qs=sYfpZ29HcUR83i3HiPAFlA%3D%3D"; VariantName = "[No Variations]"

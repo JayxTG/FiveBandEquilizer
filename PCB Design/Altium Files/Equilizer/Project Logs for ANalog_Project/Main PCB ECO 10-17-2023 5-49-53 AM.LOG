@@ -1,0 +1,53 @@
+Change Footprint: Footprint Not Found TO254P470X1028X1955-3P
+Add Component: Footprint Not Found TO254P470X1028X1955-3P
+Add Component: Footprint Not Found 14910F0GJSX10103KA
+Add Component: Footprint Not Found 14910F0GJSX10103KA
+Add Component: Footprint Not Found 14910F0GJSX10103KA
+Add Component: Footprint Not Found 14910F0GJSX10103KA
+Add Component: Footprint Not Found 14910F0GJSX10103KA
+Add Component: Footprint Not Found 14910F0GJSX10103KA
+Added Component: Designator=U9(DIP794W45P254L959H508Q8)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "PDIP-8 Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Design Item ID"; Value = "TL072CP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DigiKey-Purchase-URL"; Value = "https://snapeda.com/shop?store=DigiKey&id=2181721"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser-Purchase-URL"; Value = "https://snapeda.com/shop?store=Mouser&id=2181721"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "TL072CP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/TL072CP/Texas%20Instruments/view-part/2181721/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "TL072CP.SchLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Texas_Instruments-Purchase-URL"; Value = "https://snapeda.com/shop?store=Texas+Instruments&id=2181721"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin B2-1
+Add Pin To Net: Unknown Pin: Pin B2-2
+Add Pin To Net: Unknown Pin: Pin B2-3
+Add Pin To Net: Unknown Pin: Pin B3-1
+Add Pin To Net: Unknown Pin: Pin B3-2
+Add Pin To Net: Unknown Pin: Pin B4-1
+Add Pin To Net: Unknown Pin: Pin B4-2
+Add Pin To Net: Unknown Pin: Pin B5-1
+Add Pin To Net: Unknown Pin: Pin B5-2
+Add Pin To Net: Unknown Pin: Pin B6-1
+Add Pin To Net: Unknown Pin: Pin B6-2
+Add Pin To Net: Unknown Pin: Pin B7-1
+Add Pin To Net: Unknown Pin: Pin B7-2
+Add Pin To Net: Unknown Pin: Pin B8-1
+Add Pin To Net: Unknown Pin: Pin B8-2
+Added Pin To Net: NetName=Input Pin=U9-1
+Added Pin To Net: NetName=NetR50_1 Pin=U9-2
+Added Pin To Net: NetName=NetR48_1 Pin=U9-3
+Added Pin To Net: NetName=V_NEG Pin=U9-4
+Added Pin To Net: NetName=GND Pin=U9-5
+Added Pin To Net: NetName=GND Pin=U9-6
+Added Pin To Net: NetName=V_POS Pin=U9-8
+Add Class Member: Failed to add class member : Component B2 LM7912CT_NOPB
+Add Class Member: Failed to add class member : Component B3
+Add Class Member: Failed to add class member : Component B4
+Add Class Member: Failed to add class member : Component B5
+Add Class Member: Failed to add class member : Component B6
+Add Class Member: Failed to add class member : Component B7
+Add Class Member: Failed to add class member : Component B8
+Added Member To Class: ClassName=Main Member=Component U9 TL072CP

@@ -1,0 +1,13 @@
+Change Component Footprint: Designator=VR33 Old Footprint=TO220 New Footprint=TO254P470X1028X1955-3P
+Change Component Comment : Designator=VR33 Old Comment=LM3940 New Comment=LM3940IT-3.3_NOPB
+Change Managed Component Library Link : Designator=VR33 Old VaultGUID=661B04FD-AF58-419C-8CC9-EF4B2017241B New VaultGUID= Old ItemGUID=A85C0FFD-4C3B-4A5D-81ED-F2D522E0746E New ItemGUID= Old RevisionGUID=A6A74100-1EDA-438A-9B4C-E002F09E14AC New RevisionGUID=
+Change component parameters: Designator = "VR33" ("VR33"); Footprint = "TO220"; UniqueID = "\YJDVQLQT" ("\YJDVQLQT")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "LM3940IT-3.3/NOPB"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/lm3940it-3.3nopb/texas-instruments?region=nac"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "http://www.ti.com/general/docs/lit/getliterature.tsp?genericPartNumber=LM3940&&fileType=pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "4.7mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "LM3940IT-3.3/NOPB"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "926-LM3940IT-3.3NOPB"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/LM3940IT-3.3-NOPB?qs=QbsRYf82W3FGrjqcSAbcdA%3D%3D"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=Main Member=Component U1 TL072CP

@@ -1,0 +1,26 @@
+Added Component: Designator=B1(TO253P1057X470X2040-3)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/LM7812CT/Onsemi/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Design Item ID"; Value = "LM7812CT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "ON Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "LM7812CT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "TO-220"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/LM7812CT/Onsemi/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "LM7812CT.SchLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add Component: Footprint Not Found TO254P470X1028X1955-3P
+Add Component: Footprint Not Found SJ13523N
+Added Pin To Net: NetName=Raw_V_POS Pin=B1-1
+Added Pin To Net: NetName=GND Pin=B1-2
+Added Pin To Net: NetName=V_POS Pin=B1-3
+Add Pin To Net: Unknown Pin: Pin B2-1
+Add Pin To Net: Unknown Pin: Pin B2-2
+Add Pin To Net: Unknown Pin: Pin B2-3
+Add Pin To Net: Unknown Pin: Pin J2-1
+Add Pin To Net: Unknown Pin: Pin J2-3
+Added Member To Class: ClassName=Main Member=Component B1 CMP-033-000000-1
+Add Class Member: Failed to add class member : Component B2 LM7912CT_NOPB
+Add Class Member: Failed to add class member : Component J2 SJ1-3523N

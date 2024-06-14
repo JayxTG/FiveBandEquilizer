@@ -1,0 +1,32 @@
+Change Footprint: Footprint Not Found TO254P470X1028X1955-3P
+Add Component: Footprint Not Found TO254P470X1028X1955-3P
+Add Component: Footprint Not Found 14910F0GJSX10103KA
+Add Component: Footprint Not Found 14910F0GJSX10103KA
+Add Component: Footprint Not Found 14910F0GJSX10103KA
+Add Component: Footprint Not Found 14910F0GJSX10103KA
+Add Component: Footprint Not Found 14910F0GJSX10103KA
+Add Component: Footprint Not Found 14910F0GJSX10103KA
+Add Pin To Net: Unknown Pin: Pin B2-1
+Add Pin To Net: Unknown Pin: Pin B2-2
+Add Pin To Net: Unknown Pin: Pin B2-3
+Add Pin To Net: Unknown Pin: Pin B3-1
+Add Pin To Net: Unknown Pin: Pin B3-2
+Add Pin To Net: Unknown Pin: Pin B4-1
+Add Pin To Net: Unknown Pin: Pin B4-2
+Add Pin To Net: Unknown Pin: Pin B5-1
+Add Pin To Net: Unknown Pin: Pin B5-2
+Add Pin To Net: Unknown Pin: Pin B6-1
+Add Pin To Net: Unknown Pin: Pin B6-2
+Add Pin To Net: Unknown Pin: Pin B7-1
+Add Pin To Net: Unknown Pin: Pin B7-2
+Add Pin To Net: Unknown Pin: Pin B8-1
+Add Pin To Net: Unknown Pin: Pin B8-2
+Added Pin To Net: NetName=GND Pin=U?-32
+Added Pin To Net: NetName=GND Pin=U?-38
+Add Class Member: Failed to add class member : Component B2 LM7912CT_NOPB
+Add Class Member: Failed to add class member : Component B3
+Add Class Member: Failed to add class member : Component B4
+Add Class Member: Failed to add class member : Component B5
+Add Class Member: Failed to add class member : Component B6
+Add Class Member: Failed to add class member : Component B7
+Add Class Member: Failed to add class member : Component B8

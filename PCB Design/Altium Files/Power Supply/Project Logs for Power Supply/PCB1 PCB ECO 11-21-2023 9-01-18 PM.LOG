@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=V_POS_POW Pin=Q?-1
+Removed Pin From Net: NetName=GND Pin=Q?-2
+Removed Pin From Net: NetName=V+ Pin=Q?-3
+Change Component Footprint: Designator=Q? Old Footprint=2N2222APBFREE New Footprint=BC546A
+Change Component Comment : Designator=Q? Old Comment=2N2222A_PBFREE New Comment=BC546A
+Change component parameters: Designator = "Q?" ("Q?"); Footprint = "2N2222APBFREE"; UniqueID = "\ESOTVCNK" ("\ESOTVCNK")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://my.centralsemi.com/get_document.php?cmp=1&mergetype=pd&mergepath=pd&pdf_id=BC546-48ABC.PDF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "5.33mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Central Semiconductor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "BC546A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "610-BC546A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=610-BC546A"; VariantName = "[No Variations]"

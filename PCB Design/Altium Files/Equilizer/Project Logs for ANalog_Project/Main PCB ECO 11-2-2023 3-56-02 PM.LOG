@@ -1,0 +1,27 @@
+Removed Pin From Net: NetName=NetC6_1 Pin=R9-1
+Removed Pin From Net: NetName=Input Pin=R9-2
+Change Component DesignItemId : Designator=R9 Old DesignItemId=Res1 New DesignItemId=CMP-009-00011-5
+Change Component Footprint: Designator=R9 Old Footprint=AXIAL-0.3 New Footprint=RESC3116X70X50ML13T20
+Change Footprint: Footprint Not Found TO254P470X1028X1955-3P
+Change Component Comment : Designator=R9 Old Comment=Res1 New Comment=3.3k
+Change Component Description : Designator=R9 Old Description=Resistor New Description=
+Change Component Library : Designator=R9 Old Library=Miscellaneous Devices.IntLib New Library=University of Moratuwa
+Change Managed Component Library Link : Designator=R9 Old VaultGUID=661B04FD-AF58-419C-8CC9-EF4B2017241B New VaultGUID=661B04FD-AF58-419C-8CC9-EF4B2017241B Old ItemGUID= New ItemGUID=016ED47F-16CF-4F27-AB96-171BA953B77A Old RevisionGUID= New RevisionGUID=D83D07FF-3C0D-44F0-B35E-6E52C5106C1C
+Change component parameters: Designator = "R9" ("R9"); Footprint = "AXIAL-0.3"; UniqueID = "\GKILNVSQ" ("\GKILNVSQ")
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "1206"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "155°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = "SM"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pins"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "250mW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS Compliant"; Value = "True"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1k"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "200V"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found TO254P470X1028X1955-3P
+Add Pin To Net: Unknown Pin: Pin B2-1
+Add Pin To Net: Unknown Pin: Pin B2-2
+Add Pin To Net: Unknown Pin: Pin B2-3
+Added Pin To Net: NetName=Input Pin=R9-1
+Added Pin To Net: NetName=NetC6_1 Pin=R9-2
+Add Class Member: Failed to add class member : Component B2 LM7912CT_NOPB

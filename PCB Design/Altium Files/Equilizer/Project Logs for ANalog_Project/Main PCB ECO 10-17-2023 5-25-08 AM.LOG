@@ -1,0 +1,89 @@
+Change Component DesignItemId : Designator=B1 Old DesignItemId=CMP-033-000000-1 New DesignItemId=LM7812CT
+Change Footprint: Footprint Not Found TO254P470X1028X1955-3P
+Change Component Comment : Designator=B1 Old Comment=CMP-033-000000-1 New Comment=LM7812CT
+Change Component Description : Designator=B1 Old Description=Linear Voltage Regulator IC Positive Fixed 1 Output  1A TO-220-3 New Description=TO220 voltage regulator,LM7812CT 12V 1A
+Change Component Library : Designator=B1 Old Library=University of Moratuwa New Library=LM7812CT.SchLib
+Change Managed Component Library Link : Designator=B1 Old VaultGUID= New VaultGUID= Old ItemGUID=3107AD54-AD6E-41A0-8D42-7C3E29869F60 New ItemGUID= Old RevisionGUID=BE17BEFF-94FB-46F6-9521-E196D1A859A5 New RevisionGUID=
+Change component parameters: Designator = "B1" ("B1"); Footprint = "TO253P1057X470X2040-3"; UniqueID = "\YDKTNHYP" ("\YDKTNHYP")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "http://www.ti.com/lit/ds/symlink/lm7800.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Geometry.Height"; Value = "4.7mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "LM7812CT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "926-LM7812CT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/LM7812CT?qs=QbsRYf82W3EQj7KGft8TFg%3D%3D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Testing Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Testing Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add Component: Footprint Not Found TO254P470X1028X1955-3P
+Add Component: Footprint Not Found 14910F0GJSX10103KA
+Add Component: Footprint Not Found 14910F0GJSX10103KA
+Add Component: Footprint Not Found 14910F0GJSX10103KA
+Add Component: Footprint Not Found 14910F0GJSX10103KA
+Add Component: Footprint Not Found 14910F0GJSX10103KA
+Add Component: Footprint Not Found 14910F0GJSX10103KA
+Added Component: Designator=C?(RB7.6-15)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Polarized Capacitor (Radial); 2 Leads"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "RB7.6-15"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.330pF"; VariantName = "[No Variations]"
+Added Component: Designator=C?(RB7.6-15)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Polarized Capacitor (Radial); 2 Leads"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "RB7.6-15"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.100pF"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found SJ13523N
+Added Component: Designator=(TO220)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Design Item ID"; Value = "LM3940"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "LM3940"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOT-223-4 Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/LM3940/Texas%20Instruments/view-part/544984/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "SnapEDAsch.SchLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=V_POS Pin=-1
+Added Pin To Net: NetName=GND Pin=-2
+Add Pin To Net: Unknown Pin: Pin B2-1
+Add Pin To Net: Unknown Pin: Pin B2-2
+Add Pin To Net: Unknown Pin: Pin B2-3
+Add Pin To Net: Unknown Pin: Pin B3-1
+Add Pin To Net: Unknown Pin: Pin B3-2
+Add Pin To Net: Unknown Pin: Pin B4-1
+Add Pin To Net: Unknown Pin: Pin B4-2
+Add Pin To Net: Unknown Pin: Pin B5-1
+Add Pin To Net: Unknown Pin: Pin B5-2
+Add Pin To Net: Unknown Pin: Pin B6-1
+Add Pin To Net: Unknown Pin: Pin B6-2
+Add Pin To Net: Unknown Pin: Pin B7-1
+Add Pin To Net: Unknown Pin: Pin B7-2
+Add Pin To Net: Unknown Pin: Pin B8-1
+Add Pin To Net: Unknown Pin: Pin B8-2
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=V_POS Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-2
+Add Pin To Net: Unknown Pin: Pin J2-1
+Add Pin To Net: Unknown Pin: Pin J2-3
+Added Pin To Net: NetName=3.3V Pin=-3
+Added Pin To Net: NetName=3.3V Pin=C?-2
+Added Net: Name=3.3V
+Add Class Member: Failed to add class member : Component B2 LM7912CT_NOPB
+Add Class Member: Failed to add class member : Component B3
+Add Class Member: Failed to add class member : Component B4
+Add Class Member: Failed to add class member : Component B5
+Add Class Member: Failed to add class member : Component B6
+Add Class Member: Failed to add class member : Component B7
+Add Class Member: Failed to add class member : Component B8
+Added Member To Class: ClassName=Main Member=Component C? Cap Pol1
+Added Member To Class: ClassName=Main Member=Component C? Cap Pol1
+Add Class Member: Failed to add class member : Component J2 SJ1-3523N
+Added Member To Class: ClassName=Main Member=Component  LM3940

@@ -1,0 +1,10 @@
+Change Component Footprint: Designator=B1 Old Footprint=TO253P1057X470X2040-3 New Footprint=TO254P470X1028X1955-3P
+Change component parameters: Designator = "B1" ("B1"); Footprint = "TO253P1057X470X2040-3"; UniqueID = "\VGJRDTGT" ("\VGJRDTGT")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "http://www.ti.com/lit/ds/symlink/lm7800.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "4.7mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "LM7812CT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "926-LM7812CT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/LM7812CT?qs=QbsRYf82W3EQj7KGft8TFg%3D%3D"; VariantName = "[No Variations]"

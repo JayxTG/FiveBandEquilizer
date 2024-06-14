@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=out5 Pin=R?-1
+Removed Member From Class: ClassName=Main Member=R?
+Change Component Designator: OldDesignator=U? NewDesignator=U32

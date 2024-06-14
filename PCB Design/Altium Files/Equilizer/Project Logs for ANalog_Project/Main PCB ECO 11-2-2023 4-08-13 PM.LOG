@@ -1,0 +1,12 @@
+Change Component Footprint: Designator=U5 Old Footprint=DIP794W45P254L959H508Q8 New Footprint=DIP794W53P254L959H508Q8N
+Change Managed Component Library Link : Designator=U5 Old VaultGUID=661B04FD-AF58-419C-8CC9-EF4B2017241B New VaultGUID= Old ItemGUID=A3DCF15A-8500-4F02-9D82-3F9B5316EE3E New ItemGUID= Old RevisionGUID=8E98F21B-118D-48A0-B11C-E9D362B55EF1 New RevisionGUID=
+Change component parameters: Designator = "U5" ("U5"); Footprint = "DIP794W45P254L959H508Q8"; UniqueID = "\GEJELSNT" ("\GEJELSNT")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "NE5532P"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/ne5532p/texas-instruments?region=nac"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "http://www.ti.com/lit/ds/symlink/ne5532a.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "5.08mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "NE5532P"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "595-NE5532P"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/NE5532P?qs=3pnr37ZAbK%252Bre0OAHDmGsw%3D%3D"; VariantName = "[No Variations]"
+Change Net Name : Old Net Name=Raw_V_POS New Net Name=NetB1_1

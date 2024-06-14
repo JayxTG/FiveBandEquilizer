@@ -1,0 +1,26 @@
+Change Component DesignItemId : Designator=R26 Old DesignItemId=CMP-009-00051-4 New DesignItemId=CMP-009-00035-4
+Change Component Footprint: Designator=R26 Old Footprint=RESA60-630X240 New Footprint=RESA86-1060X240
+Change Component Comment : Designator=R26 Old Comment=MFR-25FBF52-221R New Comment=12FR050E
+Change Component Description : Designator=R26 Old Description=Axial Resistor, 221 Ohm, +/- 1%, 250 mW, -55 to 155 degC, 2-Pin THD, RoHS, Bulk New Description=
+Change Managed Component Library Link : Designator=R26 Old VaultGUID=661B04FD-AF58-419C-8CC9-EF4B2017241B New VaultGUID=661B04FD-AF58-419C-8CC9-EF4B2017241B Old ItemGUID=15FC6997-CDAC-4B6B-BC99-287A91C4499F New ItemGUID=94F85BFF-18BB-4EB2-898B-F548628D736E Old RevisionGUID=C696322B-FD77-45D8-8F5E-6E744EE73986 New RevisionGUID=F7F391A6-A97B-490D-9F69-3803AB2334FB
+Change component parameters: Designator = "R26" ("R26"); Footprint = "RESA60-630X240"; UniqueID = "\EZIHDBWQ" ("\EZIHDBWQ")
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "Axial"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Composition"; Value = "Wirewound"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet URL"; Value = "http://www.ohmite.com/cat/res_10.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Version"; Value = "Jun-15"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Diameter"; Value = "2.4mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Ohmite"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer URL"; Value = "http://www.ohmite.com/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "275°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = "TH"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Description"; Value = "2-Pin Axial Lead, Dia 2.4 mm, Body Length 10.6 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Quantity"; Value = "10"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Reference"; Value = "12FR050E"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pins"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "2W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS Compliant"; Value = "True"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "3.6K"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "100mV"; VariantName = "[No Variations]"

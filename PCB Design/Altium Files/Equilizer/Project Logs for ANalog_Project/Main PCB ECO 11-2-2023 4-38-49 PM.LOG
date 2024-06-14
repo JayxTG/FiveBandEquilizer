@@ -1,0 +1,12 @@
+Change Component Footprint: Designator=P1 Old Footprint=JST-S2B-XH-A(LF)(SN)_V New Footprint=B2BXHAMLFSN
+Change Component Comment : Designator=P1 Old Comment=S2B-XH-A(LF)(SN) New Comment=B2B-XH-AM_LF__SN_
+Change Managed Component Library Link : Designator=P1 Old VaultGUID=661B04FD-AF58-419C-8CC9-EF4B2017241B New VaultGUID= Old ItemGUID=485CCA64-6DD4-4BB3-877A-993A0625EED1 New ItemGUID= Old RevisionGUID=E34126A0-7FC4-49CD-90CE-7094400A91C8 New RevisionGUID=
+Change component parameters: Designator = "P1" ("P1"); Footprint = "JST-S2B-XH-A(LF)(SN)_V"; UniqueID = "\ZMHPDDPG" ("\ZMHPDDPG")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "B2B-XH-AM(LF)(SN)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/b2b-xh-am-lf-sn/jst-manufacturing?region=europe"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://www.jst-mfg.com/product/pdf/eng/eXH.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "7mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "JST (JAPAN SOLDERLESS TERMINALS)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "B2B-XH-AM(LF)(SN)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"

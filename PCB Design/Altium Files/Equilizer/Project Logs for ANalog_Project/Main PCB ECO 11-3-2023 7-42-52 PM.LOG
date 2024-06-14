@@ -1,0 +1,28 @@
+Removed Pin From Net: NetName=NetC1_2 Pin=U1-1
+Removed Pin From Net: NetName=NetC2_2 Pin=U1-2
+Removed Pin From Net: NetName=GND Pin=U1-3
+Removed Pin From Net: NetName=V_NEG Pin=U1-4
+Removed Pin From Net: NetName=GND Pin=U1-5
+Removed Pin From Net: NetName=Filter1Out Pin=U1-7
+Removed Pin From Net: NetName=V_POS Pin=U1-8
+Removed Member From Class: ClassName=Main Member=U1
+Change Component Designator: OldDesignator=C? NewDesignator=C3
+Change Component Designator: OldDesignator=C? NewDesignator=C4
+Change Component Designator: OldDesignator=IC? NewDesignator=U1
+Change Component Designator: OldDesignator=R? NewDesignator=R5
+Change Component Designator: OldDesignator=R? NewDesignator=R6
+Added Pin To Net: NetName=NetC1_2 Pin=U1-1
+Added Pin To Net: NetName=NetC2_2 Pin=U1-2
+Added Pin To Net: NetName=GND Pin=U1-3
+Added Pin To Net: NetName=V_NEG Pin=U1-4
+Added Pin To Net: NetName=GND Pin=U1-5
+Added Pin To Net: NetName=Filter1Out Pin=U1-7
+Added Pin To Net: NetName=V_POS Pin=U1-8
+Change Net Name : Old Net Name=NetC?_1 New Net Name=NetC3_1
+Added Pin To Net: NetName=NetC4_2 Pin=C4-2
+Added Pin To Net: NetName=NetC4_2 Pin=R6-2
+Added Pin To Net: NetName=NetC4_2 Pin=U1-6
+Added Net: Name=NetC4_2
+Added Member To Class: ClassName=Main Member=Component C3 100nF
+Added Member To Class: ClassName=Main Member=Component C4 100nF
+Added Member To Class: ClassName=Main Member=Component R6 MFR-25FBF52-221R

@@ -1,0 +1,15 @@
+Remove Pin=B3-1 From Net=VarResP1
+Remove Pin=B3-2 From Net=out1
+Remove Pin=B4-1 From Net=VarResP2
+Remove Pin=B4-2 From Net=out2
+Remove Pin=B5-1 From Net=VarResP3
+Remove Pin=B5-2 From Net=out3
+Remove Pin=B6-1 From Net=VarResP4
+Remove Pin=B6-2 From Net=out4
+Remove Pin=B7-1 From Net=VarResP5
+Remove Pin=B7-2 From Net=out5
+Remove Pin=B8-1 From Net=VarResP6
+Remove Pin=B8-2 From Net=VarResN6
+Change Component Footprint: Designator=R1 Old Footprint=RESC0402(1005)_L New Footprint=AXIAL-0.3
+Change Component Footprint: Designator=B1 Old Footprint=TO254P470X1028X1955-3P New Footprint=TO253P1057X470X2040-3
+Change Component Comment: Designator=R1 Old Comment=12k  New Comment=Res1

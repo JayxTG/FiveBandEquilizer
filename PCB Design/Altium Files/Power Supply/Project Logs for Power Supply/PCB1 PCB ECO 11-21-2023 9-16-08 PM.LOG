@@ -1,0 +1,42 @@
+Change Component Footprint: Designator=B2 Old Footprint=BC546A New Footprint=TO254P470X1028X1955-3P
+Change Component Comment : Designator=B2 Old Comment=BC546A New Comment=LM7812CT
+Change Component Designator: OldDesignator=B1 NewDesignator=Q?
+Change component parameters: Designator = "B2" ("B2"); Footprint = "BC546A"; UniqueID = "\APLKHZLZ" ("\APLKHZLZ")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "http://www.ti.com/lit/ds/symlink/lm7800.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "4.7mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "LM7812CT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "926-LM7812CT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/LM7812CT?qs=QbsRYf82W3EQj7KGft8TFg%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=B1(TO254P470X1028X1955-3P)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.ti.com/lit/ds/symlink/lm7800.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "4.7mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "LM7812CT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "926-LM7812CT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/LM7812CT?qs=QbsRYf82W3EQj7KGft8TFg%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=Q?(2N2222APBFREE)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "2N2222A PBFREE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/2n2222apbfree/central-semiconductor?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.arrow.com/en/products/2n2222apbfree/central-semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "5.33mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Central Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "2N2222A PBFREE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "610-2N2222A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Central-Semiconductor/2N2222A-PBFREE?qs=u16ybLDytRZU43pnPfDO5Q%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=V+ Pin=B1-1
+Added Pin To Net: NetName=GND Pin=B1-2
+Added Pin To Net: NetName=V_POS_POW Pin=B1-3
+Added Pin To Net: NetName=NetQ?_1 Pin=Q?-1
+Added Pin To Net: NetName=NetQ?_1 Pin=Q?-3
+Added Net: Name=NetQ?_1
+Add Net: Net with name "NetQ?_1" already exists
+Added Pin To Net: NetName=NetQ?_2 Pin=Q?-2
+Added Pin To Net: NetName=NetQ?_2 Pin=Q?-2
+Added Net: Name=NetQ?_2
+Added Member To Class: ClassName=Power_Supply Member=Component Q? BC546A
+Added Member To Class: ClassName=Power_Supply Member=Component Q? 2N2222A_PBFREE

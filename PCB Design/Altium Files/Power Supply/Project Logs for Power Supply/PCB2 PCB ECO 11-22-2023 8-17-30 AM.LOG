@@ -1,0 +1,35 @@
+Removed Member From Class: ClassName=Power_Supply Member=P?
+Change Component Designator: OldDesignator=? NewDesignator=R8
+Change Component Designator: OldDesignator=C? NewDesignator=C1
+Change Component Designator: OldDesignator=C? NewDesignator=C2
+Change Component Designator: OldDesignator=P? NewDesignator=P1
+Change Component Designator: OldDesignator=P? NewDesignator=P1
+Change Component Designator: OldDesignator=R? NewDesignator=R1
+Change Component Designator: OldDesignator=R? NewDesignator=R2
+Change Component Designator: OldDesignator=R? NewDesignator=R3
+Change Component Designator: OldDesignator=R? NewDesignator=R4
+Change Component Designator: OldDesignator=R? NewDesignator=R5
+Change Component Designator: OldDesignator=R? NewDesignator=R6
+Change Component Designator: OldDesignator=R? NewDesignator=R7
+Change Component Designator: OldDesignator=R? NewDesignator=R9
+Change Component Designator: OldDesignator=R? NewDesignator=R10
+Change Component Designator: OldDesignator=R? NewDesignator=R11
+Change Component Designator: OldDesignator=R? NewDesignator=R12
+Change Component Designator: OldDesignator=U? NewDesignator=U1
+Change Component Designator: OldDesignator=VR? NewDesignator=VR1
+Change Net Name : Old Net Name=NetC?_1 New Net Name=NetC1_1
+Change Net Name : Old Net Name=NetP?_3 New Net Name=NetP1_3
+Change Net Name : Old Net Name=NetP?_4 New Net Name=NetP1_4
+Added Member To Class: ClassName=Power_Supply Member=Component C1
+Added Member To Class: ClassName=Power_Supply Member=Component P1
+Added Member To Class: ClassName=Power_Supply Member=Component P1 B2B-XH-AM_LF__SN_
+Added Member To Class: ClassName=Power_Supply Member=Component R1 MFR-25FBF52-221R
+Added Member To Class: ClassName=Power_Supply Member=Component R2 MFR-25FBF52-221R
+Added Member To Class: ClassName=Power_Supply Member=Component R3 MFR-25FBF52-221R
+Added Member To Class: ClassName=Power_Supply Member=Component R4 MFR-25FBF52-221R
+Added Member To Class: ClassName=Power_Supply Member=Component R5 MFR-25FBF52-221R
+Added Member To Class: ClassName=Power_Supply Member=Component R7 MFR-25FBF52-221R
+Added Member To Class: ClassName=Power_Supply Member=Component R9 MFR-25FBF52-221R
+Added Member To Class: ClassName=Power_Supply Member=Component R10 MFR-25FBF52-221R
+Added Member To Class: ClassName=Power_Supply Member=Component R11 MFR-25FBF52-221R
+Added Member To Class: ClassName=Power_Supply Member=Component R12 MFR-25FBF52-221R

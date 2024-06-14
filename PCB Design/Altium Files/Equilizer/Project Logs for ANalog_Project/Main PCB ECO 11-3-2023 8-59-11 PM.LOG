@@ -1,0 +1,9 @@
+Added Component: Designator=JBP(FP-B6B-XH-A_LF_SN-MFG)
+Added Pin To Net: NetName=VarResP6 Pin=JBP-1
+Added Pin To Net: NetName=out1 Pin=JBP-2
+Added Pin To Net: NetName=out2 Pin=JBP-3
+Added Pin To Net: NetName=out3 Pin=JBP-4
+Added Pin To Net: NetName=out4 Pin=JBP-5
+Added Pin To Net: NetName=out5 Pin=JBP-6
+Change Net Name : Old Net Name=VarResP6 New Net Name=mainout
+Added Member To Class: ClassName=Main Member=Component JBP B6B-XH-A(LF)(SN)

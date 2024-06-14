@@ -1,0 +1,30 @@
+Removed Member From Class: ClassName=Main Member=R70
+Change Component Footprint: Designator=R28 Old Footprint=AXIAL-0.3 New Footprint=RESC0402(1005)_L
+Change Component Footprint: Designator=R29 Old Footprint=AXIAL-0.3 New Footprint=RESC0402(1005)_L
+Change Component Comment : Designator=R28 Old Comment=Res1 New Comment=3.6k
+Change Component Comment : Designator=R29 Old Comment=Res1 New Comment=3.6k
+Change Managed Component Library Link : Designator=R28 Old VaultGUID= New VaultGUID=661B04FD-AF58-419C-8CC9-EF4B2017241B Old ItemGUID= New ItemGUID=00F5EFDF-D167-42F9-BB01-13F4F7457F30 Old RevisionGUID= New RevisionGUID=25B9FA9C-4D2F-4D4D-ACEF-D5EAF83D2898
+Change Managed Component Library Link : Designator=R29 Old VaultGUID= New VaultGUID=661B04FD-AF58-419C-8CC9-EF4B2017241B Old ItemGUID= New ItemGUID=00F5EFDF-D167-42F9-BB01-13F4F7457F30 Old RevisionGUID= New RevisionGUID=25B9FA9C-4D2F-4D4D-ACEF-D5EAF83D2898
+Change component parameters: Designator = "R28" ("R28"); Footprint = "AXIAL-0.3"; UniqueID = "\ANOPKLIA" ("\ANOPKLIA")
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "155°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pins"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "63mW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS Compliant"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "11K"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "R29" ("R29"); Footprint = "AXIAL-0.3"; UniqueID = "\WJPFABHH" ("\WJPFABHH")
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "155°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pins"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "63mW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS Compliant"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1.8K"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = ""; VariantName = "[No Variations]"
+Added Member To Class: ClassName=Main Member=Component R42 Res1

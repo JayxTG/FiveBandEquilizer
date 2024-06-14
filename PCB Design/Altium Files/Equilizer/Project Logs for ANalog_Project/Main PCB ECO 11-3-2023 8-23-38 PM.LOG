@@ -1,0 +1,11 @@
+Change Component Footprint: Designator=U9 Old Footprint=DIP794W45P254L959H508Q8 New Footprint=DIP794W53P254L959H508Q8N
+Change Managed Component Library Link : Designator=U9 Old VaultGUID=661B04FD-AF58-419C-8CC9-EF4B2017241B New VaultGUID= Old ItemGUID=EA2FA518-71DE-4B48-AD4E-07997BD36625 New ItemGUID= Old RevisionGUID=97283DFA-67FB-4709-AD3D-EB7DE95BD97B New RevisionGUID=
+Change component parameters: Designator = "U9" ("U9"); Footprint = "DIP794W45P254L959H508Q8"; UniqueID = "\WVESMFMN" ("\WVESMFMN")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "TL072CP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/tl072cp/texas-instruments?region=nac"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "http://www.ti.com/lit/ds/symlink/tl071a.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "5.08mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "TL072CP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "595-TL072CP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/TL072CP?qs=5nGYs9Do7G3e6Tx9uHIgUA%3D%3D"; VariantName = "[No Variations]"
