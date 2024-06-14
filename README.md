@@ -39,24 +39,16 @@ To ensure optimal performance and efficiency, we carefully selected high-quality
 - Enclosure
 - Filter Designs
 - Filter Simulations
-
--
--
--
-=
--
--Filters Screenshots
--Final Product
--PCB Design
-
-
+- Filters Screenshots
+- Final Product
+- PCB Design
 
 ## Breadboard Testing
 
 ![Breadboard Testing](Breadboard%20Testing/image.jpg)
 
 ## Final Product
-![Final Product](Final%Product/image.jpg)
+![Final Product](Final%20Product/image.jpg)
 
 ## Team Members
 - Fernando.W.W.R.N.S
