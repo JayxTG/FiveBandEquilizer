@@ -34,11 +34,17 @@ To ensure optimal performance and efficiency, we carefully selected high-quality
 
 ## Folder Structure
 
--Breadboard Testing
--Documentation
--Enclosure
-=Filter Designs
--Filter Simulations
+- Breadboard Testing
+- Documentation
+- Enclosure
+- Filter Designs
+- Filter Simulations
+
+-
+-
+-
+=
+-
 -Filters Screenshots
 -Final Product
 -PCB Design
