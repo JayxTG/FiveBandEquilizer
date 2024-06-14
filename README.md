@@ -50,6 +50,9 @@ The PCB design files are located in the [PCB Design/](PCB%20Design/) folder.
 
 ![Breadboard Testing](Breadboard%20Testing/image.jpg)
 
+## Final Product
+![Final Product](Enclosure/image.jpg)
+
 ## Team Members
 - Fernando.W.W.R.N.S
 - Gammune.D.J.T
