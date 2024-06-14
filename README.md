@@ -12,46 +12,43 @@ For the PCB design, Altium Designer was utilized to create the schematics and la
 
 Additionally, an ESP32 microcontroller and a MAX7219 LED matrix module were incorporated to provide a visual representation of the gain levels for each frequency band.
 
+## 🎯 Objective
+Our mission was to design a Five Band Analog Audio Equalizer capable of dividing an audio signal into distinct frequency bands and applying custom gain adjustments to each. This project required a comprehensive understanding of analog electronics, signal processing, and circuit design principles.
+
+## 🔋 Power & Efficiency
+To ensure optimal performance and efficiency, we carefully selected high-quality components, including operational amplifiers, resistors, and capacitors, considering factors like slew rate, input offset voltage, and noise performance. Our design also featured an ESP32 microcontroller and a MAX7219 LED matrix module for intuitive gain level visualization.
+
+## 🔑 Key Features
+- 🎚️ Precise audio signal division into five distinct frequency bands
+- 📈 Custom gain adjustments for each frequency band
+- 🛠️ High-quality component selection for optimal performance
+- 💡 Integration of ESP32 microcontroller and MAX7219 LED matrix for visual feedback
+
+## 🛠️ Hardware Specifications
+- **Filter Topologies**: Implemented various filter topologies for effective frequency band division
+- **Amplifier Configurations**: Utilized efficient amplifier configurations for clear audio output
+- **Frequency Response Optimization**: Achieved optimal frequency response through meticulous design and simulation
+- **Component Selection**: Selected components with a focus on performance, including operational amplifiers, resistors, and capacitors
+- **Visualization**: Integrated an ESP32 microcontroller and MAX7219 LED matrix module for visual gain level indication
+
+
 ## Folder Structure
 
-Breadboard Testing/
-Documentation/
-Enclosure/
-Filter Designs/
-Filter Simulations/
-Filters Screenshots/
-PCB Design/
-
-## Documentation
-
-The documentation for this project can be found in the [Documentation/](Documentation/) folder.
-
-## Enclosure
-
-The design files for the enclosure are located in the [Enclosure/](Enclosure/) folder.
-
-## Filter Designs
-
-The designs for the various filters used in this project are available in the [Filter Designs/](Filter%20Designs/) folder.
-
-## Filter Simulations
-
-The simulations for the filters can be found in the [Filter Simulations/](Filter%20Simulations/) folder.
-
-## Filters Screenshots
-
-Screenshots related to the filters are stored in the [Filters Screenshots/](Filters%20Screenshots/) folder.
-
-## PCB Design
-
-The PCB design files are located in the [PCB Design/](PCB%20Design/) folder.
+- Breadboard Testing
+- Documentation
+- Enclosure
+- Filter Designs
+- Filter Simulations
+- Filters Screenshots
+- Final Product
+- PCB Design
 
 ## Breadboard Testing
 
 ![Breadboard Testing](Breadboard%20Testing/image.jpg)
 
 ## Final Product
-![Final Product](Enclosure/image.jpg)
+![Final Product](Final%20Product/image.jpg)
 
 ## Team Members
 - Fernando.W.W.R.N.S
