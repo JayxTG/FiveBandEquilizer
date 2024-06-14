@@ -34,37 +34,16 @@ To ensure optimal performance and efficiency, we carefully selected high-quality
 
 ## Folder Structure
 
-Breadboard Testing/
-Documentation/
-Enclosure/
-Filter Designs/
-Filter Simulations/
-Filters Screenshots/
-PCB Design/
+-Breadboard Testing
+-Documentation
+-Enclosure
+=Filter Designs
+-Filter Simulations
+-Filters Screenshots
+-Final Product
+-PCB Design
 
-## Documentation
 
-The documentation for this project can be found in the [Documentation/](Documentation/) folder.
-
-## Enclosure
-
-The design files for the enclosure are located in the [Enclosure/](Enclosure/) folder.
-
-## Filter Designs
-
-The designs for the various filters used in this project are available in the [Filter Designs/](Filter%20Designs/) folder.
-
-## Filter Simulations
-
-The simulations for the filters can be found in the [Filter Simulations/](Filter%20Simulations/) folder.
-
-## Filters Screenshots
-
-Screenshots related to the filters are stored in the [Filters Screenshots/](Filters%20Screenshots/) folder.
-
-## PCB Design
-
-The PCB design files are located in the [PCB Design/](PCB%20Design/) folder.
 
 ## Breadboard Testing
 
