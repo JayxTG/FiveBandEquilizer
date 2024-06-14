@@ -42,6 +42,7 @@ To ensure optimal performance and efficiency, we carefully selected high-quality
 - Filters Screenshots
 - Final Product
 - PCB Design
+- MCU Code
 
 ## Breadboard Testing
 
