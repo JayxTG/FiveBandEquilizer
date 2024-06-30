@@ -14,13 +14,12 @@ void setup() {
   // Initialize row and column pins as outputs
   for (int i = 0; i < 8; i++) {
     pinMode(rowPins[i], OUTPUT);
+    digitalWrite(rowPins[i], LOW);  // Ensure all rows are off initially
   }
   for (int i = 0; i < 5; i++) {
     pinMode(colPins[i], OUTPUT);
+    digitalWrite(colPins[i], HIGH); // Ensure all columns are off initially
   }
-  
-  // Turn off all LEDs initially
-  clearMatrix();
 }
 
 void loop() {
@@ -30,7 +29,7 @@ void loop() {
   // Read and map analog values
   for (int i = 0; i < 5; i++) {
     analogValues[i] = analogRead(analogPins[i]);
-    mappedValues[i] = map(analogValues[i], 0, 1023, 0, 5);
+    mappedValues[i] = map(analogValues[i], 0, 1023, 0, 8);
   }
   
   // Update the LED matrix
@@ -41,9 +40,11 @@ void loop() {
 }
 
 void clearMatrix() {
+  // Turn off all rows
   for (int i = 0; i < 8; i++) {
     digitalWrite(rowPins[i], LOW);
   }
+  // Turn off all columns
   for (int i = 0; i < 5; i++) {
     digitalWrite(colPins[i], HIGH);
   }
@@ -67,8 +68,8 @@ void updateMatrix(int values[5]) {
     // Turn off the column
     digitalWrite(colPins[col], HIGH);
     
-    // Turn off all rows
-    for (int row = 0; row < 8; row++) {
+    // Turn off all rows for the next cycle
+    for (int row = 0; row < values[col]; row++) {
       digitalWrite(rowPins[row], LOW);
     }
   }
